@@ -2,4 +2,4 @@
 Notification Bell 
 
 
-![Image of Bell](https://octodex.github.com/images/yaktocat.png)
+![Image of Bell](https://github.com/TheAppWizard/BellSwiftUI/blob/main/Bell.png)
